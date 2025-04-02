@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Objects
+  - Wall
+  - Projectile
+  - Weapon
+  - Interact
+  - SacrificeRoom
+  - Item
+  - Enemy
+  - CrossHair
+  - MenuCanvas
+  - BuffText
+  - MainSong
+  - AlternativeSong
+  - SacrificeSong
+  - MenuParent
+  - Spawner
+  - FxTemporaire
+  - Door
+  - ThemeSong
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Objects
+  - Enemy
+  - 
+  - 
+  - 
+  - Door
+  - Interact
+  - Items
+  - IgnoreCollider
+  - 
+  - 
+  - RoomCollider
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
